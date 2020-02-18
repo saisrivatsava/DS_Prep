@@ -1,0 +1,9 @@
+### SQL Query order
+```
+SELECT
+FROM
+WHERE
+GROUP BY
+HAVING
+ORDER BY
+```
