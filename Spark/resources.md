@@ -5,3 +5,6 @@
 
 ### spark-executor-calculations
 * https://spoddutur.github.io/spark-notes/distribution_of_executors_cores_and_memory_for_spark_application.html
+
+### aws ec2 instances
+* https://aws.amazon.com/ec2/instance-types/
