@@ -8,3 +8,6 @@
 
 ### aws ec2 instances
 * https://aws.amazon.com/ec2/instance-types/
+
+### aws emr architecture
+* https://docs.aws.amazon.com/emr/latest/ManagementGuide/emr-master-core-task-nodes.html
